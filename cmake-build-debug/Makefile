@@ -149,6 +149,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\solver-AlejandroMamaniAndia199802.dir\build.make CMakeFiles/solver-AlejandroMamaniAndia199802.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+operations/operation.obj: operations/operation.cpp.obj
+
+.PHONY : operations/operation.obj
+
+# target to build an object file
+operations/operation.cpp.obj:
+	$(MAKE) -f CMakeFiles\solver-AlejandroMamaniAndia199802.dir\build.make CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.obj
+.PHONY : operations/operation.cpp.obj
+
+operations/operation.i: operations/operation.cpp.i
+
+.PHONY : operations/operation.i
+
+# target to preprocess a source file
+operations/operation.cpp.i:
+	$(MAKE) -f CMakeFiles\solver-AlejandroMamaniAndia199802.dir\build.make CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.i
+.PHONY : operations/operation.cpp.i
+
+operations/operation.s: operations/operation.cpp.s
+
+.PHONY : operations/operation.s
+
+# target to generate assembly for a file
+operations/operation.cpp.s:
+	$(MAKE) -f CMakeFiles\solver-AlejandroMamaniAndia199802.dir\build.make CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.s
+.PHONY : operations/operation.cpp.s
+
+tester/tester.obj: tester/tester.cpp.obj
+
+.PHONY : tester/tester.obj
+
+# target to build an object file
+tester/tester.cpp.obj:
+	$(MAKE) -f CMakeFiles\solver-AlejandroMamaniAndia199802.dir\build.make CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.obj
+.PHONY : tester/tester.cpp.obj
+
+tester/tester.i: tester/tester.cpp.i
+
+.PHONY : tester/tester.i
+
+# target to preprocess a source file
+tester/tester.cpp.i:
+	$(MAKE) -f CMakeFiles\solver-AlejandroMamaniAndia199802.dir\build.make CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.i
+.PHONY : tester/tester.cpp.i
+
+tester/tester.s: tester/tester.cpp.s
+
+.PHONY : tester/tester.s
+
+# target to generate assembly for a file
+tester/tester.cpp.s:
+	$(MAKE) -f CMakeFiles\solver-AlejandroMamaniAndia199802.dir\build.make CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.s
+.PHONY : tester/tester.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,6 +215,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... operations/operation.obj
+	@echo ... operations/operation.i
+	@echo ... operations/operation.s
+	@echo ... tester/tester.obj
+	@echo ... tester/tester.i
+	@echo ... tester/tester.s
 .PHONY : help
 
 

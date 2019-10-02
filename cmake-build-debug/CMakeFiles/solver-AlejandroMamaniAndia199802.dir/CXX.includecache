@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/operations/operation.h
+string
+-
+
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/tester/tester.cpp
+tester.h
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/tester/tester.h
+
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/tester/tester.h
+stdexcept
+-
+iostream
+-
+assert.h
+-
+string.h
+-
+../operations/operation.h
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/operations/operation.h
+

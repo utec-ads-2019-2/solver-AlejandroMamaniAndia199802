@@ -6,4 +6,4 @@ set(CMAKE_CXX_FLAGS -pthread)
 
 
 
-add_executable(solver-AlejandroMamaniAndia199802 main.cpp)
+add_executable(solver-AlejandroMamaniAndia199802 main.cpp bstree.h node.h tester/tester.cpp tester/tester.h operations/operation.cpp operations/operation.h)

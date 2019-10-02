@@ -69,19 +69,49 @@ CMakeFiles/solver-AlejandroMamaniAndia199802.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/solver-AlejandroMamaniAndia199802.dir/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\albin\Desktop\Documents\GitHub\ALGORITMOS\ACTIVIDADES_CLASE\solver-AlejandroMamaniAndia199802\main.cpp -o CMakeFiles\solver-AlejandroMamaniAndia199802.dir\main.cpp.s
 
+CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.obj: CMakeFiles/solver-AlejandroMamaniAndia199802.dir/flags.make
+CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.obj: ../tester/tester.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\albin\Desktop\Documents\GitHub\ALGORITMOS\ACTIVIDADES_CLASE\solver-AlejandroMamaniAndia199802\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\solver-AlejandroMamaniAndia199802.dir\tester\tester.cpp.obj -c C:\Users\albin\Desktop\Documents\GitHub\ALGORITMOS\ACTIVIDADES_CLASE\solver-AlejandroMamaniAndia199802\tester\tester.cpp
+
+CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\albin\Desktop\Documents\GitHub\ALGORITMOS\ACTIVIDADES_CLASE\solver-AlejandroMamaniAndia199802\tester\tester.cpp > CMakeFiles\solver-AlejandroMamaniAndia199802.dir\tester\tester.cpp.i
+
+CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\albin\Desktop\Documents\GitHub\ALGORITMOS\ACTIVIDADES_CLASE\solver-AlejandroMamaniAndia199802\tester\tester.cpp -o CMakeFiles\solver-AlejandroMamaniAndia199802.dir\tester\tester.cpp.s
+
+CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.obj: CMakeFiles/solver-AlejandroMamaniAndia199802.dir/flags.make
+CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.obj: ../operations/operation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\albin\Desktop\Documents\GitHub\ALGORITMOS\ACTIVIDADES_CLASE\solver-AlejandroMamaniAndia199802\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\solver-AlejandroMamaniAndia199802.dir\operations\operation.cpp.obj -c C:\Users\albin\Desktop\Documents\GitHub\ALGORITMOS\ACTIVIDADES_CLASE\solver-AlejandroMamaniAndia199802\operations\operation.cpp
+
+CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\albin\Desktop\Documents\GitHub\ALGORITMOS\ACTIVIDADES_CLASE\solver-AlejandroMamaniAndia199802\operations\operation.cpp > CMakeFiles\solver-AlejandroMamaniAndia199802.dir\operations\operation.cpp.i
+
+CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\albin\Desktop\Documents\GitHub\ALGORITMOS\ACTIVIDADES_CLASE\solver-AlejandroMamaniAndia199802\operations\operation.cpp -o CMakeFiles\solver-AlejandroMamaniAndia199802.dir\operations\operation.cpp.s
+
 # Object files for target solver-AlejandroMamaniAndia199802
 solver__AlejandroMamaniAndia199802_OBJECTS = \
-"CMakeFiles/solver-AlejandroMamaniAndia199802.dir/main.cpp.obj"
+"CMakeFiles/solver-AlejandroMamaniAndia199802.dir/main.cpp.obj" \
+"CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.obj" \
+"CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.obj"
 
 # External object files for target solver-AlejandroMamaniAndia199802
 solver__AlejandroMamaniAndia199802_EXTERNAL_OBJECTS =
 
 solver-AlejandroMamaniAndia199802.exe: CMakeFiles/solver-AlejandroMamaniAndia199802.dir/main.cpp.obj
+solver-AlejandroMamaniAndia199802.exe: CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.obj
+solver-AlejandroMamaniAndia199802.exe: CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.obj
 solver-AlejandroMamaniAndia199802.exe: CMakeFiles/solver-AlejandroMamaniAndia199802.dir/build.make
 solver-AlejandroMamaniAndia199802.exe: CMakeFiles/solver-AlejandroMamaniAndia199802.dir/linklibs.rsp
 solver-AlejandroMamaniAndia199802.exe: CMakeFiles/solver-AlejandroMamaniAndia199802.dir/objects1.rsp
 solver-AlejandroMamaniAndia199802.exe: CMakeFiles/solver-AlejandroMamaniAndia199802.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\albin\Desktop\Documents\GitHub\ALGORITMOS\ACTIVIDADES_CLASE\solver-AlejandroMamaniAndia199802\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable solver-AlejandroMamaniAndia199802.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\albin\Desktop\Documents\GitHub\ALGORITMOS\ACTIVIDADES_CLASE\solver-AlejandroMamaniAndia199802\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable solver-AlejandroMamaniAndia199802.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\solver-AlejandroMamaniAndia199802.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

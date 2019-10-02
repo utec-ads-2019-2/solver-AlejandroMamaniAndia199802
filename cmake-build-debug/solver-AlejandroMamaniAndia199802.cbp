@@ -80,7 +80,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/bstree.h">
+			<Option target="solver-AlejandroMamaniAndia199802"/>
+		</Unit>
 		<Unit filename="C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/main.cpp">
+			<Option target="solver-AlejandroMamaniAndia199802"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/node.h">
+			<Option target="solver-AlejandroMamaniAndia199802"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/operations/operation.cpp">
+			<Option target="solver-AlejandroMamaniAndia199802"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/operations/operation.h">
+			<Option target="solver-AlejandroMamaniAndia199802"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/tester/tester.cpp">
+			<Option target="solver-AlejandroMamaniAndia199802"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/tester/tester.h">
 			<Option target="solver-AlejandroMamaniAndia199802"/>
 		</Unit>
 		<Unit filename="C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/CMakeLists.txt">

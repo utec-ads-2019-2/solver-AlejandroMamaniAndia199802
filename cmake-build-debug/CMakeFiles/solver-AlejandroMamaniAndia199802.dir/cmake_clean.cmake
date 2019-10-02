@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/solver-AlejandroMamaniAndia199802.dir/main.cpp.obj"
+  "CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.obj"
+  "CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.obj"
   "solver-AlejandroMamaniAndia199802.pdb"
   "solver-AlejandroMamaniAndia199802.exe"
   "solver-AlejandroMamaniAndia199802.exe.manifest"

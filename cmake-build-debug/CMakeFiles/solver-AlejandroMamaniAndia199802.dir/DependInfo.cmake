@@ -5,6 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/main.cpp" "C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/cmake-build-debug/CMakeFiles/solver-AlejandroMamaniAndia199802.dir/main.cpp.obj"
+  "C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/operations/operation.cpp" "C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/cmake-build-debug/CMakeFiles/solver-AlejandroMamaniAndia199802.dir/operations/operation.cpp.obj"
+  "C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/tester/tester.cpp" "C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/cmake-build-debug/CMakeFiles/solver-AlejandroMamaniAndia199802.dir/tester/tester.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

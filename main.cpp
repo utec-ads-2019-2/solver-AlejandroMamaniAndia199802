@@ -1,4 +1,14 @@
-//
-// Created by albin on 27/09/2019.
-//
+#include <iostream>
+#include <string>
+#include "tester/tester.h"
+#include "bstree.h"
 
+using namespace std;
+
+
+int main(int argc, char const *argv[])
+{
+    Tester::execute();
+
+    return 0;
+}
