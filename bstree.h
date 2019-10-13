@@ -16,8 +16,8 @@ private:
         if(!node)
             return 0;
 
-        if(!node->left && !node->right)
-            return strtof(node->data.c_str(), 0);
+        if(!node->right && !node->left  )
+            return strtof(node->data.c_str(), nullptr);
 
         float left_operation = getValue(node->left);
         float right_operation = getValue(node->right);
@@ -51,7 +51,6 @@ public:
     }
 
     ~BSTree() {
-        // TODO
     }
 };
 

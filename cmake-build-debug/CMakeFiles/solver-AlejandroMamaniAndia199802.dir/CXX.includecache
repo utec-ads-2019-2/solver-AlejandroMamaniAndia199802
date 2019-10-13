@@ -6,23 +6,33 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/bstree.h
+node.h
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/node.h
+operations/operation.h
 C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/operations/operation.h
+stdlib.h
+-
+math.h
+-
+
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/node.h
+iostream
+-
 string
 -
 
-C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/tester/tester.cpp
-tester.h
-C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/tester/tester.h
-
-C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/tester/tester.h
-stdexcept
--
-iostream
--
-assert.h
--
-string.h
--
-../operations/operation.h
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/operations/operation.cpp
+operation.h
 C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/operations/operation.h
+../bstree.h
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/bstree.h
+stack
+-
+cstring
+-
+
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/ACTIVIDADES_CLASE/solver-AlejandroMamaniAndia199802/operations/operation.h
+string
+-
 

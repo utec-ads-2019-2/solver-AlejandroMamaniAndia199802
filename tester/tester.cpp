@@ -18,10 +18,12 @@ void Tester::execute() {
     };
 
     const unsigned int size = sizeof(equations) / sizeof(string);
-    for (int i = 0; i < size; ++i) {
+    for (int i = 0; i < size; ++i)
+    {
+
         Operation* solver = Operation::buildFromEquation(equations[i]);
-        float respuesta = solver->operate();
-        ASSERT(respuesta == results[i], "The solver is not working");
+        float result = solver->operate();
+        ASSERT(result == results[i], "The solver is not working");
         cout << "Equation(" << i + 1 << ") solved" << endl;
     }
 }

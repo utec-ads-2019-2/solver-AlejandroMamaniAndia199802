@@ -9,6 +9,5 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
     Tester::execute();
-
     return 0;
 }

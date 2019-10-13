@@ -15,7 +15,7 @@ Operation* Operation::buildFromEquation(string equation) {
 
     Node *t, *t1, *t2;
 
-    for (size_t i = 0; i < ordEquation.size(); ++i)
+    for(size_t i = 0; i < ordEquation.size(); ++i)
     {
         if(!isOperator(ordEquation[i]))
         {
@@ -56,7 +56,7 @@ string fixArithmetic(string equation)
     {
         switch(flag)
         {
-            case 1:     // If prev value was '+'
+            case 1:
                 if (equation[i] == '-') minus++;
                 else if (equation[i] != '+') {
                     if (minus % 2 == 0) output += '+';
@@ -69,16 +69,16 @@ string fixArithmetic(string equation)
                 break;
 
             default:
-                if (equation[i] == '+' || equation[i] == '-') {
+                if (equation[i] == '+' || equation[i] == '-')
+                {
                     flag = 1;
                     if (equation[i] == '-') minus++;
-                } else
+                }
+                else
                     output += equation[i];
-
                 break;
         }
     }
-
     return output;
 }
 
