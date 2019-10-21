@@ -1,7 +1,7 @@
 #include "tester.h"
 
 void Tester::execute() {
-    string equations[] = {
+    /*string equations[] = {
             "7/4*((3+1)*3)+3",
             "2+(3)",
             "7/4*((1+2)^4*2)+3",
@@ -25,5 +25,11 @@ void Tester::execute() {
         float result = solver->operate();
         ASSERT(result == results[i], "The solver is not working");
         cout << "Equation(" << i + 1 << ") solved" << endl;
-    }
+    }*/
+
+    //7/4*((11+12)*11)+3
+    // No funciona con variables, ni con varios dígitos
+    Operation* solver = Operation::buildFromEquation("1+9");
+    float result = solver->operate();
+    cout << result << endl;
 }

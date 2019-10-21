@@ -43,6 +43,7 @@ public:
     bool insert(Node *node)
     {
         this -> root = node;
+        // Qué retorna?
     }
 
     float operate()
@@ -51,6 +52,7 @@ public:
     }
 
     ~BSTree() {
+        // Falta liberar la memoria
     }
 };
 
